@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Drivers My BookStore</string>
+    <string name="data_not_found">Your have not any Order</string>
+</resources>
